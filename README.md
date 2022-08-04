@@ -1,7 +1,7 @@
 # GoogleCapstoneProject
 Code for my Google Capstone Project
 
-This was previously on my [Portfolio Projects repository](https://github.com/kellyjadams/portfolioProjects). But because it has more than one file I decided to create a repository for this larger project. I have kept the original code in the Portfolio Projects Repository for version control.
+This was previously on my [Portfolio Projects repository](https://github.com/kellyjadams/portfolioProjects). But because it has more than one file I decided to create a repository for this larger project.
 
 Below are the links to everything related to the Capstone Project. 
 - [**FinalAnalysis.R**](https://github.com/kellyjadams/GoogleCapstoneProject/blob/main/FinalAnalysis.R) - analyzed the data set from case study 1 in the Google Data Analytics Course using R. I did not do any data visualization in R. This is the same code as Google_Capstone_Project.R in my Portfolio Projects. 
