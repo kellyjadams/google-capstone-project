@@ -1,10 +1,14 @@
-# GoogleCapstoneProject
-Code for my Google Capstone Project
+# Google Capstone Project
 
-This was previously on my [Portfolio Projects repository](https://github.com/kellyjadams/portfolioProjects). But because it has more than one file I decided to create a repository for this larger project.
+I analyzed a dataset using R for a company, Cyclistic, a bike sharing company in Chicago. Created an interactive dashboard showing how annual members and casual riders use Cyclistic bikes differently. I also provided marketing strategies to convert casual riders to annual members. 
 
-Below are the links to everything related to the Capstone Project. 
-- [**FinalAnalysis.R**](https://github.com/kellyjadams/GoogleCapstoneProject/blob/main/FinalAnalysis.R) - analyzed the data set from case study 1 in the Google Data Analytics Course using R. I did not do any data visualization in R. This is the same code as Google_Capstone_Project.R in my Portfolio Projects. 
-- [**FinalAnalysisTableau.R**](https://github.com/kellyjadams/GoogleCapstoneProject/blob/main/FinalAnalysisTableau.R) - used code to create a specific data frame to use in Tableau. Deleted unncessary columns to make the code run quicker in Tableau. This is the same code as Google_Capstone_Project_T.R in my Portfolio Projects. 
+## 🚲 Background
+Cyclistic is a fictional bike sharing program which features more than 5,800 bikes and 600 docking stations. It offers reclining bikes, hand tricycles, and cargo bikes, making it more inclusive to people with disabilities and riders who can't use a standard two-wheeled bike. It was founded in 2016 and has grown tremendously into a fleet of bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime. 
+
+## 🔗 Links
 - [**Article**](https://www.kellyjadams.com/post/google-capstone-project) - wrote an article summarizing my findings.
 - [**Tableau Dashboard**](https://public.tableau.com/views/GoogleCapstoneProjectCyclistic/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link) - created a dashboard in Tableau summarizing the data.
+
+## 📁 Files
+- [**FinalAnalysis.R**](https://github.com/kellyjadams/GoogleCapstoneProject/blob/main/FinalAnalysis.R) - analyzed the data set from case study 1 in the Google Data Analytics Course using R. I did not do any data visualization in R. 
+- [**FinalAnalysisTableau.R**](https://github.com/kellyjadams/GoogleCapstoneProject/blob/main/FinalAnalysisTableau.R) - create a specific data frame to use in Tableau. Deleted unncessary columns to make the code run quicker in Tableau.
